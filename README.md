@@ -240,4 +240,4 @@ This repository serves as the official landing page for Panda Antivirus. The sof
 **Get the most recent version of Panda Antivirus today!**
 
 ---
-**Last updated:** 2026-09-28 06:35:03 UTC
+**Last updated:** 2026-09-28 15:13:38 UTC
